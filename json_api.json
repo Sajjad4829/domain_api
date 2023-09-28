@@ -1,0 +1,133 @@
+[{
+        "id": 1,
+        "category": "Human",
+        "title": "Clean water for children",
+        "picture": "https://i.ibb.co/8nC6pWk/Health.png",
+        "categoryBg": "#aec8ff",
+        "CardBg_color": "#d9e5ff",
+        "text_color": "#0052ff",
+        "description": "Ensuring the basic human right of clean and safe drinking water for children in need is at the heart of this initiative. By providing access to pure water sources, we contribute to the health and well-being of young lives, giving them a brighter future.",
+        "price": 499.00
+    },
+    {
+        "id": 2,
+        "category": " Education",
+        "title": " Good Education ",
+        "picture": "https://i.ibb.co/pWf44Hz/Rectangle-4288.png",
+        "categoryBg": "#ffc3c5",
+        "Card_color": "#ffe3e4",
+        "text_color": "#ff444a",
+        "description": "Our commitment to good education extends beyond classrooms. We support educational programs that empower young minds to dream big and create opportunities for a brighter future. Together, we shape a world where knowledge knows no bounds..",
+        "price": 39.00
+    },
+    {
+        "id": 3,
+        "category": " Clothing ",
+        "title": "Use clothing Drive",
+        "picture": "https://i.ibb.co/DbLmMSK/Clothing.png",
+        "categoryBg": "#d4ecc1",
+        "Card_color": "#ebf6e2",
+        "text_color": "#79c23f",
+        "description": "With the simple act of collecting and distributing gently used clothing, we promote warmth and dignity for those less fortunate. Every garment shared is a testament to our commitment to compassion and making a difference, one piece of clothing at a time..",
+        "price": 19.00
+    },
+    {
+        "id": 4,
+        "category": "Food",
+        "title": "Better Food for Everyone",
+        "picture": "https://i.ibb.co/4fKG8HJ/Food.png",
+        "categoryBg": "#fdd2c4",
+        "Card_color": "#feeae3",
+        "text_color": "#fa9576",
+        "description": "We believe that access to nutritious and affordable food is a fundamental right. Our mission is to ensure that no one goes hungry, improving the health and well-being of individuals and families, one meal at a time..",
+        "price": 79.00
+    },
+    {
+        "id": 5,
+        "category": "Environment",
+        "title": "Environmental Conservation",
+        "picture": "https://i.ibb.co/X2fdQqx/group-volunteers-collecting-garbage.jpg",
+        "categoryBg": "#aec8ff",
+        "CardBg_color": "#d9e5ff",
+        "text_color": "#0052ff",
+        "description": "Our dedication to environmental conservation goes hand in hand with protecting and preserving our natural world for future generations. Together, we promote sustainability and ensure the beauty of our planet endures for all to enjoy..",
+        "price": 29.00
+    },
+    {
+        "id": 6,
+        "category": "Community ",
+        "title": "Community Empowerment",
+        "picture": "https://i.ibb.co/tx62smh/volunteers-collecting-food-donations-medium-shot.jpg",
+        "categoryBg": "#ffc3c5",
+        "Card_color": "#ffe3e4",
+        "text_color": "#ff444a",
+        "description": "Empowering communities through infrastructure and social programs is the cornerstone of our mission. By fostering growth and unity, we pave the way for thriving communities where every individual can reach their full potential..",
+        "price": 59.00
+    },
+    {
+        "id": 7,
+        "category": "Animal ",
+        "title": "Animal Welfare Advocacy",
+        "picture": "https://i.ibb.co/NFKSWzj/rural-life-lifestyle-growing-rabbits.jpg",
+        "categoryBg": "#d4ecc1",
+        "Card_color": "#ebf6e2",
+        "text_color": "#79c23f",
+        "description": "Compassion and respect for the welfare of animals drive our advocacy efforts. Caring for and protecting animals is not just a cause; it's a commitment to a world where animals are treated with the kindness they deserve..",
+        "price": 49.00
+    },
+    {
+        "id": 8,
+        "category": "cultural",
+        "title": "Arts and Culture Promotion",
+        "picture": "https://i.ibb.co/gFhRSQn/close-up-people-collecting-food.jpg",
+        "categoryBg": "#fdd2c4",
+        "Card_color": "#feeae3",
+        "text_color": "#fa9576",
+        "description": "Our work celebrates and preserves diverse cultural expressions and artistic endeavors. By supporting the arts, we ensure that the richness of culture continues to inspire and unite communities worldwide..",
+        "price": 199.00
+    },
+    {
+        "id": 9,
+        "category": "Religious ",
+        "title": "Religious Contributions",
+        "picture": "https://i.ibb.co/Kb4KjfV/young-voluntteers-work-distribution-center-looking-busy-1.jpg",
+        "categoryBg": "#aec8ff",
+        "CardBg_color": "#d9e5ff",
+        "text_color": "#0052ff",
+        "description": "Nurturing faith and goodwill through support for religious institutions and their charitable works is our purpose. Together, we strengthen the bonds of faith and compassion, making a positive impact on lives..",
+        "price": 14.00
+    },
+    {
+        "id": 10,
+        "category": "Humantari",
+        "title": "Humanitarian Aid Relief",
+        "picture": "https://i.ibb.co/BZQMbXh/volunteers-holding-box-filled-with-food-donation.jpg",
+        "categoryBg": "#ffc3c5",
+        "Card_color": "#ffe3e4",
+        "text_color": "#ff444a",
+        "description": "In times of crises and disasters, our urgent assistance saves lives and alleviates suffering. We stand ready to provide aid to those affected, offering hope and relief when it's needed most..",
+        "price": 69.00
+    },
+    {
+        "id": 11,
+        "category": "Medical",
+        "title": "Medical Donations",
+        "picture": "https://i.ibb.co/869h9vB/different-people-doing-volunteer-work-with-food.jpg",
+        "categoryBg": "#d4ecc1",
+        "Card_color": "#ebf6e2",
+        "text_color": "#79c23f",
+        "description": "Our commitment to providing medical aid and healthcare services promotes health and well-being for all. By ensuring access to quality healthcare, we strive to make a difference in people's lives..",
+        "price": 149.00
+    },
+    {
+        "id": 12,
+        "category": "Research ",
+        "title": "Research and Innovation Fund",
+        "picture": "https://i.ibb.co/GMJy8tz/female-scientist-holding-green-solution-while-hear-team-works-background-young-biologist-background.jpg",
+        "categoryBg": "#fdd2c4",
+        "Card_color": "#feeae3",
+        "text_color": "#fa9576",
+        "description": "Advancing knowledge and technology through research and innovative solutions is our mission. By addressing pressing challenges, we contribute to a brighter and more sustainable future for all..",
+        "price": 49.00
+    }
+]
